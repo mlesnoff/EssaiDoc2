@@ -1,3 +1,2 @@
-# EssaiDoc2 (Building Web pages)
 
-[Scripts examples](https://mlesnoff.github.io/EssaiDoc2/)
+The Html scripts eaxamples are [**here**](https://mlesnoff.github.io/EssaiDoc2/).
