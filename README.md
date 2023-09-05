@@ -1,2 +1,2 @@
 
-The Html scripts eaxamples are [**here**](https://mlesnoff.github.io/EssaiDoc2/).
+The Html scripts examples are [**here**](https://mlesnoff.github.io/EssaiDoc2/).
